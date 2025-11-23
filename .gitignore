@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Virtual Environment
+venv/
+
+# Ignore Data folder
+data/
+
+# Ignore YOLO Model weights (Large files)
+*.pt
+*.onnx
+
+# Ignore User settings
+.vscode/
+.DS_Store

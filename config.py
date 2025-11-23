@@ -1,0 +1,5 @@
+YOLO_MODEL_PATH = "yolov8x.pt"
+CONF_THRESHOLD = 0.4
+IOU_THRESHOLD = 0.45
+GRID_SIZE = 100  # Resolution for the cost map
+MAX_DISPLAY_WIDTH = 1000
