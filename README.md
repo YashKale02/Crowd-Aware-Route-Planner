@@ -60,6 +60,11 @@ This hybrid approach ensures the agent selects paths that optimally balance phys
     streamlit run app.py
     ```
 
+## 👥 Contributors
+- **Tanishka Nagawade** — https://github.com/Tanishka712
+- **Devendra Moharir** — https://github.com/Devendra412
+- **Yash Swami** — https://github.com/yashs00
+- **Yash Kale** — https://github.com/YashKale02
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
